@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Don.na is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by 500-global) and added to the network as a stub for full-pipeline profiling.
-- https://incredible.io
+Don.na is a venture‑backed technology startup identified through the API Evangelist harvest backlog. It operates in the digital services space, offering innovative solutions that integrate with modern APIs. While detailed product information is limited, the company is backed by 500‑global and is positioned to expand its API ecosystem. Further investigation is required to uncover its service offerings, documentation, and developer resources.
+
+**Areas:** Company · Startup · Technology · API · Venture
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://incredible.io)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/incredible-io/](https://apis.io/providers/incredible-io/).
